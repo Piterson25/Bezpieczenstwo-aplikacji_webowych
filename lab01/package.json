@@ -1,0 +1,16 @@
+{
+  "name": "lab01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zad1.js",
+  "scripts": {
+    "start": "nodemon zad1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-basic-auth": "^1.2.1",
+    "nodemon": "^2.0.21"
+  }
+}
